@@ -1,3 +1,0 @@
-build:
-  ci:
-    - docker build -t "brahim777/monero:latest" .
